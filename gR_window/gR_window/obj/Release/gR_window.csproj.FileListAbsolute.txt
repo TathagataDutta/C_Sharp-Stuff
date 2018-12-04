@@ -1,0 +1,13 @@
+D:\DNA Work\VB\gR_window\gR_window\bin\Release\gR_window.exe.config
+D:\DNA Work\VB\gR_window\gR_window\bin\Release\gR_window.exe
+D:\DNA Work\VB\gR_window\gR_window\bin\Release\gR_window.pdb
+D:\DNA Work\VB\gR_window\gR_window\bin\Release\aa\gR_window.resources.dll
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.csproj.ResolveComReference.cache
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.Form1.resources
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.Properties.Resources.resources
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.Form1.aa.resources
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.csproj.GenerateResource.cache
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.csproj.CoreCompileInputs.cache
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\aa\gR_window.resources.dll
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.exe
+D:\DNA Work\VB\gR_window\gR_window\obj\Release\gR_window.pdb
